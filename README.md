@@ -1,1 +1,2 @@
 06_Solving-problems-filtering.ipynb这个ipynb文件中有贝叶斯滤波、卡尔曼滤波、扩展卡尔曼滤波和粒子滤波四个代码案例，经过了详细注释，其他四个pdf课件为辅助理解，有详细注释。
+hw1为通过自动评分测试的作业代码，其中的核心文件为hw1_student.ipynb，这个文件调用其他的python文件来实现作业的任务。
